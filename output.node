@@ -1,0 +1,133 @@
+nohup: ignoring input
+comment route
+POST comment route
+{ Name: 'Emily', Comment: 'This is awesome!' }
+Name: Emily
+Comment: This is awesome!
+Record added as 5504dbd9910340012a90f4ae
+comment route
+In GET
+Document Array: 
+[ { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 550091aa6da24331058e2754 },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 550092a2cc42974905b989e4 },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 55009325ed796a6f055de8ee },
+  { Name: 'Mickey', Comment: 'Hi', _id: 550093563a624184050a1954 },
+  { Name: 'Mickey',
+    Comment: 'What is up',
+    _id: 550093a331928a9a058b57bd },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 5500942531928a9a058b57be },
+  { Name: 'Mickey',
+    Comment: 'Hellooooo',
+    _id: 550095462706edc705d9c871 },
+  { Name: 'Mickey',
+    Comment: 'Hola',
+    _id: 55009612be4937dd0513aca0 },
+  { Name: 'Mickey', Comment: 'Hey', _id: 550096448ba6f5f405ee291d },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 550096db4a6d5f2706abd8db },
+  { Name: 'Lyndsay',
+    Comment: 'Fin!',
+    _id: 550097a838e3e25706fb3eae },
+  { Name: 'Emily',
+    Comment: 'This is awesome!',
+    _id: 5504dbd9910340012a90f4ae } ]
+comment route
+POST comment route
+{ Name: 'Chief', Comment: 'is rude' }
+Name: Chief
+Comment: is rude
+Record added as 5504dc01910340012a90f4af
+comment route
+In GET
+Document Array: 
+[ { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 550091aa6da24331058e2754 },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 550092a2cc42974905b989e4 },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 55009325ed796a6f055de8ee },
+  { Name: 'Mickey', Comment: 'Hi', _id: 550093563a624184050a1954 },
+  { Name: 'Mickey',
+    Comment: 'What is up',
+    _id: 550093a331928a9a058b57bd },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 5500942531928a9a058b57be },
+  { Name: 'Mickey',
+    Comment: 'Hellooooo',
+    _id: 550095462706edc705d9c871 },
+  { Name: 'Mickey',
+    Comment: 'Hola',
+    _id: 55009612be4937dd0513aca0 },
+  { Name: 'Mickey', Comment: 'Hey', _id: 550096448ba6f5f405ee291d },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 550096db4a6d5f2706abd8db },
+  { Name: 'Lyndsay',
+    Comment: 'Fin!',
+    _id: 550097a838e3e25706fb3eae },
+  { Name: 'Emily',
+    Comment: 'This is awesome!',
+    _id: 5504dbd9910340012a90f4ae },
+  { Name: 'Chief',
+    Comment: 'is rude',
+    _id: 5504dc01910340012a90f4af } ]
+comment route
+POST comment route
+{ Name: 'Mickey', Comment: 'Hello' }
+Name: Mickey
+Comment: Hello
+Record added as 5504dc12910340012a90f4b0
+comment route
+In GET
+Document Array: 
+[ { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 550091aa6da24331058e2754 },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 550092a2cc42974905b989e4 },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 55009325ed796a6f055de8ee },
+  { Name: 'Mickey', Comment: 'Hi', _id: 550093563a624184050a1954 },
+  { Name: 'Mickey',
+    Comment: 'What is up',
+    _id: 550093a331928a9a058b57bd },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 5500942531928a9a058b57be },
+  { Name: 'Mickey',
+    Comment: 'Hellooooo',
+    _id: 550095462706edc705d9c871 },
+  { Name: 'Mickey',
+    Comment: 'Hola',
+    _id: 55009612be4937dd0513aca0 },
+  { Name: 'Mickey', Comment: 'Hey', _id: 550096448ba6f5f405ee291d },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 550096db4a6d5f2706abd8db },
+  { Name: 'Lyndsay',
+    Comment: 'Fin!',
+    _id: 550097a838e3e25706fb3eae },
+  { Name: 'Emily',
+    Comment: 'This is awesome!',
+    _id: 5504dbd9910340012a90f4ae },
+  { Name: 'Chief',
+    Comment: 'is rude',
+    _id: 5504dc01910340012a90f4af },
+  { Name: 'Mickey',
+    Comment: 'Hello',
+    _id: 5504dc12910340012a90f4b0 } ]
